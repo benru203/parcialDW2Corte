@@ -1,0 +1,28 @@
+.row{
+    background: #717175;
+    border-radius: 1rem;
+    margin-bottom: 0.8rem;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+label, h3, h6{
+    color: #f1f1f1;
+}
+.form-check{
+    margin-left: 1rem;
+}
+.spl{
+    padding-left: 0!important;
+}
+
+.mb1{
+    margin-bottom: 0.5rem;
+}
+.no-spinner{
+    -moz-apparence:textfield;
+}
+.no-spinner::-webkit-outer-spin-button,
+.no-spinner::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+}
